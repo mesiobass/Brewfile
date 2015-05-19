@@ -5,6 +5,7 @@
 tap caskroom/cask
 brew brew-cask
 cask box-sync
+cask mysqlworkbench
 
 ## rcmdnk/file
 tap rcmdnk/file
