@@ -1,6 +1,11 @@
 
 # tap repositories and their packages
 
+## caskroom/cask
+tap caskroom/cask
+brew brew-cask
+cask box-sync
+
 ## rcmdnk/file
 tap rcmdnk/file
 brew brew-file
@@ -17,6 +22,7 @@ brew pkg-config
 brew readline
 
 # App Store applications
+appstore Display Menu
 appstore Evernote
 appstore Kobito
 appstore Pixelmator
@@ -27,5 +33,3 @@ appstore StuffIt Expander
 appstore WinArchiver Lite
 appstore Wunderlist
 appstore Xcode
-
-cask box-sync
