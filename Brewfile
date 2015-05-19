@@ -14,6 +14,8 @@ brew brew-file
 # Other Homebrew packages
 brew autoconf
 brew automake
+brew cabal-install
+brew ghc
 brew libgpg-error
 brew libksba
 brew libtool
