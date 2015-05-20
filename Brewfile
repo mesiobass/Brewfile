@@ -17,6 +17,7 @@ cask hyperswitch
 cask karabiner
 cask mysqlworkbench
 cask rdm
+cask skype
 cask virtualbox
 
 ## rcmdnk/file
@@ -37,4 +38,17 @@ brew pkg-config
 brew readline
 
 # App Store applications
+appstore Dash
+appstore Display Menu
+appstore Evernote
+appstore Kindle
+appstore Kobito
+appstore Pixelmator
+appstore Pocket
+appstore Slack
+appstore SourceTree
+appstore StuffIt Expander
+appstore Typist
+appstore WinArchiver Lite
+appstore Wunderlist
 appstore Xcode
