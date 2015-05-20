@@ -7,6 +7,7 @@ brew brew-cask
 cask atom
 cask bettertouchtool
 cask box-sync
+cask cheatsheet
 cask clipmenu
 cask coteditor
 cask dropbox
@@ -18,6 +19,7 @@ cask karabiner
 cask mysqlworkbench
 cask rdm
 cask skype
+cask vagrant
 cask virtualbox
 
 ## rcmdnk/file
