@@ -4,8 +4,20 @@
 ## caskroom/cask
 tap caskroom/cask
 brew brew-cask
+cask atom
+cask bettertouchtool
 cask box-sync
+cask clipmenu
+cask coteditor
+cask dropbox
+cask firefox
+cask google-chrome
+cask google-japanese-ime
+cask hyperswitch
+cask karabiner
 cask mysqlworkbench
+cask rdm
+cask virtualbox
 
 ## rcmdnk/file
 tap rcmdnk/file
@@ -25,14 +37,4 @@ brew pkg-config
 brew readline
 
 # App Store applications
-appstore Display Menu
-appstore Evernote
-appstore Kobito
-appstore Pixelmator
-appstore Pocket
-appstore Slack
-appstore SourceTree
-appstore StuffIt Expander
-appstore WinArchiver Lite
-appstore Wunderlist
 appstore Xcode
