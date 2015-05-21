@@ -4,6 +4,7 @@
 ## caskroom/cask
 tap caskroom/cask
 brew brew-cask
+cask alfred
 cask atom
 cask bettertouchtool
 cask box-sync
