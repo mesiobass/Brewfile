@@ -19,6 +19,7 @@ cask hyperswitch
 cask karabiner
 cask mysqlworkbench
 cask rdm
+cask sequel-pro
 cask skype
 cask vagrant
 cask virtualbox
