@@ -36,7 +36,10 @@ brew ghc
 brew libgpg-error
 brew libksba
 brew libtool
+brew libxml2
+brew libxslt
 brew libyaml
+brew mysql
 brew openssl
 brew pkg-config
 brew readline
