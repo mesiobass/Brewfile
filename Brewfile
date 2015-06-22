@@ -33,6 +33,7 @@ brew autoconf
 brew automake
 brew cabal-install
 brew ghc
+brew libevent
 brew libgpg-error
 brew libksba
 brew libtool
@@ -43,6 +44,7 @@ brew mysql
 brew openssl
 brew pkg-config
 brew readline
+brew tmux
 
 # App Store applications
 appstore Dash
