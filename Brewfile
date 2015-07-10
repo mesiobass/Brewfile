@@ -11,6 +11,7 @@ cask box-sync
 cask cheatsheet
 cask clipmenu
 cask coteditor
+cask cyberduck
 cask dropbox
 cask firefox
 cask google-chrome
