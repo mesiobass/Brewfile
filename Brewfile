@@ -34,6 +34,7 @@ brew autoconf
 brew automake
 brew cabal-install
 brew ghc
+brew jmeter
 brew libevent
 brew libgpg-error
 brew libksba
