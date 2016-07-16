@@ -35,6 +35,7 @@ brew automake
 brew cabal-install
 brew ghc
 brew jmeter
+brew jq
 brew libevent
 brew libgpg-error
 brew libksba
@@ -52,7 +53,6 @@ brew tmux
 appstore Dash
 appstore Display Menu
 appstore Evernote
-appstore Kindle
 appstore Kobito
 appstore Pixelmator
 appstore Pocket
